@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, I'm Maria Morales, a web developer from Venezuela 🇻🇪
 
-<!--
-**MustaBlondie/MustaBlondie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Right now I'm focused on learning 
 
-Here are some ideas to get you started:
+![Mis Skills](https://skillicons.dev/icons?i=vue,react,typescript,python,django,docker,sqlite) <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### In my spare time, I enjoy working on: <br/>
+![Mis Skills](https://skillicons.dev/icons?i=figma) My design skills — learning Figma <br/><br/>
+![Mis Skills](https://skillicons.dev/icons?i=godot) I'm learning how to use Godot for game development  <br/>
+![Mis Skills](https://skillicons.dev/icons?i=codewars) I use Codewars to keep improving and practice more code
+
+
+
+
+
