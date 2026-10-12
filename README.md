@@ -12,7 +12,7 @@
 
 ### In my spare time, I enjoy working on: <br/>
 ![Mis Skills](https://skillicons.dev/icons?i=figma) My design skills — learning Figma <br/><br/>
-![Unity](https://skillicons.dev/icons?i=unity) I'm learning how to use Godot for game development  <br/>
+![Unity](https://skillicons.dev/icons?i=unity) I'm learning how to use Unity for game development  <br/>
 
 
 
