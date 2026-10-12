@@ -1,6 +1,12 @@
 # Hola, I'm Maria Morales, a web developer from Venezuela 🇻🇪
 
-### 💻 Right now I'm focused on learning 
+### 💻 Focused on building responsive and modern user interfaces.
+
+### ⚡ Core Frontend: JavaScript, TypeScript, Vue 3, React (currently learning/working with), HTML, CSS
+
+### 🐍 Backend & Data: Python, Django, SQL (currently learning)
+
+### 🐳 Tools: Docker (currently learning)
 
 ![Mis Skills](https://skillicons.dev/icons?i=vue,react,typescript,python,django,docker,sqlite) <br/>
 
