@@ -12,8 +12,8 @@
 
 ### In my spare time, I enjoy working on: <br/>
 ![Mis Skills](https://skillicons.dev/icons?i=figma) My design skills — learning Figma <br/><br/>
-![Mis Skills](https://skillicons.dev/icons?i=godot) I'm learning how to use Godot for game development  <br/>
-![Mis Skills](https://skillicons.dev/icons?i=codewars) I use Codewars to keep improving and practice more code
+![Unity](https://skillicons.dev/icons?i=unity) I'm learning how to use Godot for game development  <br/>
+
 
 
 
